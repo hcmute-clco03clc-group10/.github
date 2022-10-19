@@ -12,7 +12,7 @@ Xây dựng ứng dụng trên AWS cho phép tạo database và cung cấp API �
 
 ### Công nghệ
 
-- Front-end: HTML, CSS, Headless UI, Svelte.
+- Front-end: HTML, CSS, JavaScript, Headless UI, Svelte.
 
 - Back-end: AWS S3, AWS Lambda.
 
@@ -20,9 +20,9 @@ Xây dựng ứng dụng trên AWS cho phép tạo database và cung cấp API �
 
 ### Thành viên nhóm
 
-- Nguyễn Kim Hạnh - 20110468
+- Nguyễn Kim Hạnh - 20110468.
 
-- Đặng Minh Châu - 20110445
+- Đặng Minh Châu - 20110445.
 
-- Đặng Quốc Duy - 20110060
+- Đặng Quốc Duy - 20110060.
 
