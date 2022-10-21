@@ -22,7 +22,7 @@ Xây dựng ứng dụng trên AWS cho phép tạo database và cung cấp API �
 
 - Ngôn ngữ: Node.js.
 
-- Dịch vụ: AWS S3, AWS Lambda.
+- Dịch vụ: AWS S3, AWS Lambda, Amazon API Gateway.
 
 #### Database
 
