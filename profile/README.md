@@ -1,6 +1,8 @@
 # Điện toán đám mây - lớp 03CLC - nhóm 10
 
-### Tên đề tài.
+### [File báo cáo](https://github.com/hcmute-clco03clc-group10/report)
+
+### Tên đề tài
 
 Xây dựng ứng dụng trên AWS cho phép tạo database và cung cấp API để thêm, xóa, sửa trên database.
 
