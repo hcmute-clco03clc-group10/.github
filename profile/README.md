@@ -1,4 +1,4 @@
-# Điện toán đám mây - lớp 03CLC - nhóm 11
+# Điện toán đám mây - lớp 03CLC - nhóm 10
 
 ### Tên đề tài.
 
